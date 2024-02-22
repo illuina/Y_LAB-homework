@@ -40,6 +40,11 @@ body {
   transition: background-color 1s;
 }
 
+.Item:hover {
+  background: #75aaf1;
+  color: #fff;
+}
+
 .Item_selected {
   background: #75aaf1;
   color: #fff;
